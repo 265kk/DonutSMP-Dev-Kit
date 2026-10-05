@@ -25,7 +25,7 @@ Everything you should need when making something related to DonutSMP, Discord bo
 - Tickets
 - Giveaways
 - Leaderboards
-- 
+
 ## Website
 - Player count
 - Discord login (OAuth2)
@@ -36,5 +36,5 @@ Everything you should need when making something related to DonutSMP, Discord bo
 - Embed examples
 - Discord Bot Template 
 
-If you have any questions or want to hire me feel free to send a DM!
+If you have any questions feel free to send me a dm!
 - Discord: @265kk (697035481749389354)
