@@ -1,18 +1,16 @@
 # DonutSMP Dev Kit
 
-Everything you might need when making something related to DonutSMP: Discord bots, websites and Discord servers. This repo has code examples, templates, multiple languages and more!
+Everything you should need when making something related to DonutSMP, Discord bots, websites or discord servers. This repo has code examples, templates, multiple languages and more!
 
 **Languages:** 
-> Python (discord.py, Flask)
-> JavaScript (discord.js)
-> HTML/CSS
-
-Checked items are done, unchecked items are planned.
+- Python
+- JavaScript
+- HTML/CSS
 
 ## Discord Bot
 
-### Messages
-**Send a message or an embed with the prefixes `!`, `.` and `?` (`!donutsmp`)**
+**Messages**
+- Send a message or an embed with the prefixes `!`, `.` and `?` (`!donutsmp`)
 - Buttons
 - Dropdowns
 - Images
