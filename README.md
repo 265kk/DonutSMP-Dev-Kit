@@ -10,7 +10,7 @@ Everything you should need when making something related to DonutSMP, Discord bo
 ## Discord Bot
 
 **Messages**
-- Send a message or an embed with the prefixes `!`, `.` and `?` (`!donutsmp`)
+- Send a message or an embed with the prefixes `!`, `.`,`?` (`!donutsmp`)
 - Buttons
 - Dropdowns
 - Images
